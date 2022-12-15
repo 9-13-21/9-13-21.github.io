@@ -4,7 +4,7 @@ This is my home page! My name is Wilson Nguyen and I am a student at [Cal State 
 
 ## Computer Science Projects
 
-My GitHub page is [9-13-21] (https://github.com/9-13-21)
+My GitHub page is [9-13-21](https://github.com/9-13-21)
 
 ### CPSC 120
 
